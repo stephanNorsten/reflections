@@ -8,11 +8,14 @@
 
 -How can you use the staging area to make sure you have one commit per logical
 change?
+-By checking constantly what there is inside of it
 
-What are some situations when branches would be helpful in keeping your history
+-What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+-When you want to try maybe new features, or versions completely different that might even not work
 
-How do the diagrams help you visualize the branch structure?
+-How do the diagrams help you visualize the branch structure?
+-they helped me to undersatnd better the reachability of the different commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
