@@ -6,10 +6,12 @@ local?
 automatically stay up-to-date with your remote repository?
 - Maybe one want to 
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
-
-    Fill in your answer here
+- Describe the differences between forks, clones, and branches.  When would you
+	use one instead of another?
+- A fork is a copy of the repo on GH servers, I can use it for collaborative coding 
+	or working from different devices, a clone is a local copy of the repo, to be used when 
+	working locally or before pushing, while a branch is a parallel history of commits,
+	where I can test experimental or different function I don't want the master to have
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
